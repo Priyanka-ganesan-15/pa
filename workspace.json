@@ -1,6 +1,7 @@
 {
   "version": 2,
   "projects": {
+    "pa-api": "apps/pa-api",
     "pa-web": "apps/pa-web",
     "pa-web-e2e": "apps/pa-web-e2e"
   }
